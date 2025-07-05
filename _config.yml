@@ -1,0 +1,17 @@
+title: Jean Baptiste Minani
+description: My personal site
+#baseurl: ""  # Must be empty for user/organization site
+#url: "https://jeanbaptiste.github.io"
+#theme: minima  # or leave out if you're using custom layouts
+plugins:
+  - jekyll-paginate
+  - jekyll-scholar
+  - jemoji
+
+# Optional: exclude files GitHub Pages doesn't need
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - bin/
+  - _site/
